@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_redirect_label">Home button redirect</string>
+    <string name="home_redirect_description">Opens this home screen whenever the stock Google TV home screen appears. The long-press Home panel is left untouched.</string>
+    <string name="media_listener_label">Now playing</string>
+</resources>
